@@ -3,7 +3,7 @@
 Aplikasi web sederhana untuk melakukan Optical Character Recognition (OCR) pada gambar menggunakan Go dan Tesseract.
 
 # Demo
-![Demonstrasi](https://raw.githubusercontent.com/rezapace/https://github.com/rezapace/Go-ImgToText/main/assets/new_feature_demo.gif)
+![Demonstrasi](https://github.com/rezapace/Go-ImgToText/blob/master/demo.gif?raw=true)
 
 ## Fitur
 
